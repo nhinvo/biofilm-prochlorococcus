@@ -12,7 +12,7 @@ def main():
     efficiencies_df = pd.read_table(efficiencies)
 
     # 2. Obtain table of genome equivalent 
-    standardized_counts = "../../ClassificationPSTDB/StandardizeData/data/AllNormalizedCount.tsv"
+    standardized_counts = "../../StandardizeData/data/AllNormalizedCount.tsv"
     df = pd.read_table(standardized_counts)
     df = df.rename(columns={'filter size (um)': 'Filter size (um)'})  # change to match 
     df = df[

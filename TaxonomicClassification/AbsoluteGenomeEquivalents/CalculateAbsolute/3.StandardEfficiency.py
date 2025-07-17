@@ -19,7 +19,7 @@ READ_LEN = 150
 
 # file paths 
 GENOME_FASTA = "../../Modified-ProSynTax-Workflow/inputs/Thermus_genome/Thermus_thermophilus_ATCC_BAA_163.fasta" 
-SAMPLES_TSV = "../../StandardizeData/data/SamplesTsv/HOT346_samples.tsv"
+SAMPLES_TSV = "../../Modified-ProSynTax-Workflow/inputs/MakeHOT346SamplesTsv/HOT346samples.tsv"
 STANDARD_LOG = "data/Edited HOT 346 log sheets Oct 28.xlsx"
 BLAST_DIR = "data/BlastOutput"
 
@@ -152,6 +152,8 @@ def process_sequenced(dir_path, genome_len):
 
 
 def main():
+    Path('data/EfficiencyMetadata').mkdir(exist_ok=True, parents=True)
+
     # obtain reference genome data: length, molecular weight 
     genome_len, genome_mw = genome_stats(GENOME_FASTA)
 
