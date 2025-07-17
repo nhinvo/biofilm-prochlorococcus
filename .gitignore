@@ -1,0 +1,35 @@
+# folders to ignore at all depths
+**/logs/**
+**/log/**
+**/scratch/**
+**/.snakemake/**
+**/trash/**
+**/misc/**
+**/Misc/**
+**README**
+!README.md
+
+# TaxonomicClassification Folder 
+TaxonomicClassification/Modified-ProSynTax-Workflow/inputs/Thermus_genome/Thermus_thermophilus_ATCC_BAA_163.fasta.*
+TaxonomicClassification/Modified-ProSynTax-Workflow/inputs/MakeHOT346SamplesTsv/
+
+TaxonomicClassification/Plots/BarPlots/
+TaxonomicClassification/Plots/LinePlots/Exploratory/
+
+TaxonomicClassification/SupplementaryTable/
+
+TaxonomicClassification/AbsoluteGenomeEquivalents/CalculateAbsolute/data/TrimmedFastaOutput/
+TaxonomicClassification/AbsoluteGenomeEquivalents/CalculateAbsolute/data/BlastOutput/
+
+# VariantCalling Folder 
+VariantCalling/Modified-WideVariant-Pipeline/0-input/infosite-6710L/
+VariantCalling/Modified-WideVariant-Pipeline/1-Mapping/
+VariantCalling/Modified-WideVariant-Pipeline/2-Case/
+VariantCalling/Modified-WideVariant-Pipeline/data/
+VariantCalling/Modified-WideVariant-Pipeline/Mapping/
+
+VariantCalling/PlotVariants/data/1.position_barplots/svg/
+
+VariantCalling/ReadMappingQC/data/
+VariantCalling/ReadMappingQC/2a.bin/data/2.parsed_depth/
+VariantCalling/ReadMappingQC/2a.bin/data/3.depth_plots/treatment_*/

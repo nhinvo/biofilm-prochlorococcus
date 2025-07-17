@@ -1,0 +1,4 @@
+experiment_name: "Adherent Variant Calling - 2024"
+sample_table: ./samples.csv
+myscripts_directory: ./scripts
+ref_genome_directory: ./ref_genome

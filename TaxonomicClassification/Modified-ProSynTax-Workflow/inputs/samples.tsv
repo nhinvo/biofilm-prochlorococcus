@@ -1,0 +1,580 @@
+sample	forward read	reverse read
+KJ9	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206063-6830L/240719Chi_D24-206063_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206063-6830L/240719Chi_D24-206063_2_sequence.fastq
+KJ12	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206064-6830L/240719Chi_D24-206064_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206064-6830L/240719Chi_D24-206064_2_sequence.fastq
+KJ15	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206065-6830L/240719Chi_D24-206065_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206065-6830L/240719Chi_D24-206065_2_sequence.fastq
+KJ18	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206066-6830L/240719Chi_D24-206066_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206066-6830L/240719Chi_D24-206066_2_sequence.fastq
+KJ21	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206067-6830L/240719Chi_D24-206067_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206067-6830L/240719Chi_D24-206067_2_sequence.fastq
+KJ24	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206068-6830L/240719Chi_D24-206068_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206068-6830L/240719Chi_D24-206068_2_sequence.fastq
+KJ27	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206069-6830L/240719Chi_D24-206069_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206069-6830L/240719Chi_D24-206069_2_sequence.fastq
+KJ30	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206070-6830L/240719Chi_D24-206070_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206070-6830L/240719Chi_D24-206070_2_sequence.fastq
+KJ33	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206071-6830L/240719Chi_D24-206071_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206071-6830L/240719Chi_D24-206071_2_sequence.fastq
+KJ36	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206072-6830L/240719Chi_D24-206072_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206072-6830L/240719Chi_D24-206072_2_sequence.fastq
+KJ39	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206073-6830L/240719Chi_D24-206073_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206073-6830L/240719Chi_D24-206073_2_sequence.fastq
+KJ42	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206074-6830L/240719Chi_D24-206074_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206074-6830L/240719Chi_D24-206074_2_sequence.fastq
+KJ45	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206075-6830L/240719Chi_D24-206075_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206075-6830L/240719Chi_D24-206075_2_sequence.fastq
+KJ48	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206076-6830L/240719Chi_D24-206076_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206076-6830L/240719Chi_D24-206076_2_sequence.fastq
+KJ51	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206077-6830L/240719Chi_D24-206077_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206077-6830L/240719Chi_D24-206077_2_sequence.fastq
+KJ54	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206078-6830L/240719Chi_D24-206078_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206078-6830L/240719Chi_D24-206078_2_sequence.fastq
+KJ57	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206079-6830L/240719Chi_D24-206079_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206079-6830L/240719Chi_D24-206079_2_sequence.fastq
+KJ60	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206080-6830L/240719Chi_D24-206080_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206080-6830L/240719Chi_D24-206080_2_sequence.fastq
+KJ63	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206081-6830L/240719Chi_D24-206081_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206081-6830L/240719Chi_D24-206081_2_sequence.fastq
+KJ66	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206082-6830L/240719Chi_D24-206082_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206082-6830L/240719Chi_D24-206082_2_sequence.fastq
+KJ69	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206083-6830L/240719Chi_D24-206083_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206083-6830L/240719Chi_D24-206083_2_sequence.fastq
+KJ72	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206084-6830L/240719Chi_D24-206084_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206084-6830L/240719Chi_D24-206084_2_sequence.fastq
+KJ75	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206085-6830L/240719Chi_D24-206085_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206085-6830L/240719Chi_D24-206085_2_sequence.fastq
+KJ78	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206086-6830L/240719Chi_D24-206086_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206086-6830L/240719Chi_D24-206086_2_sequence.fastq
+KJ81	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206087-6830L/240719Chi_D24-206087_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206087-6830L/240719Chi_D24-206087_2_sequence.fastq
+KJ84	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206088-6830L/240719Chi_D24-206088_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206088-6830L/240719Chi_D24-206088_2_sequence.fastq
+KJ87	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206089-6830L/240719Chi_D24-206089_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206089-6830L/240719Chi_D24-206089_2_sequence.fastq
+KJ90	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206090-6830L/240719Chi_D24-206090_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206090-6830L/240719Chi_D24-206090_2_sequence.fastq
+KJ93	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206091-6830L/240719Chi_D24-206091_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206091-6830L/240719Chi_D24-206091_2_sequence.fastq
+KJ96	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206092-6830L/240719Chi_D24-206092_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206092-6830L/240719Chi_D24-206092_2_sequence.fastq
+KJ99	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206093-6830L/240719Chi_D24-206093_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206093-6830L/240719Chi_D24-206093_2_sequence.fastq
+KJ102	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206094-6830L/240719Chi_D24-206094_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240719Chi/D24-206094-6830L/240719Chi_D24-206094_2_sequence.fastq
+KJ_22	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234088-6907L/240927Chi_D24-234088_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234088-6907L/240927Chi_D24-234088_2_sequence.fastq
+KJ_23	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234089-6907L/240927Chi_D24-234089_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234089-6907L/240927Chi_D24-234089_2_sequence.fastq
+KJ_25	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234090-6907L/240927Chi_D24-234090_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234090-6907L/240927Chi_D24-234090_2_sequence.fastq
+KJ_26	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234091-6907L/240927Chi_D24-234091_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234091-6907L/240927Chi_D24-234091_2_sequence.fastq
+KJ_28	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234092-6907L/240927Chi_D24-234092_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234092-6907L/240927Chi_D24-234092_2_sequence.fastq
+KJ_29	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234093-6907L/240927Chi_D24-234093_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234093-6907L/240927Chi_D24-234093_2_sequence.fastq
+KJ_31	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234094-6907L/240927Chi_D24-234094_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234094-6907L/240927Chi_D24-234094_2_sequence.fastq
+KJ_32	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234095-6907L/240927Chi_D24-234095_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234095-6907L/240927Chi_D24-234095_2_sequence.fastq
+KJ_105	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234072-6907L/240927Chi_D24-234072_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234072-6907L/240927Chi_D24-234072_2_sequence.fastq
+KJ_108	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234074-6907L/240927Chi_D24-234074_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234074-6907L/240927Chi_D24-234074_2_sequence.fastq
+KJ_111	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234076-6907L/240927Chi_D24-234076_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234076-6907L/240927Chi_D24-234076_2_sequence.fastq
+KJ_114	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234078-6907L/240927Chi_D24-234078_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234078-6907L/240927Chi_D24-234078_2_sequence.fastq
+KJ_117	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234060-6907L/240927Chi_D24-234060_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234060-6907L/240927Chi_D24-234060_2_sequence.fastq
+KJ_120	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234062-6907L/240927Chi_D24-234062_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234062-6907L/240927Chi_D24-234062_2_sequence.fastq
+KJ_123	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234064-6907L/240927Chi_D24-234064_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234064-6907L/240927Chi_D24-234064_2_sequence.fastq
+KJ_126	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234066-6907L/240927Chi_D24-234066_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234066-6907L/240927Chi_D24-234066_2_sequence.fastq
+KJ_34_35	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234080-6907L/240927Chi_D24-234080_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234080-6907L/240927Chi_D24-234080_2_sequence.fastq
+KJ_37_38	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234081-6907L/240927Chi_D24-234081_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234081-6907L/240927Chi_D24-234081_2_sequence.fastq
+KJ_40_41	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234082-6907L/240927Chi_D24-234082_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234082-6907L/240927Chi_D24-234082_2_sequence.fastq
+KJ_43_44	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234083-6907L/240927Chi_D24-234083_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234083-6907L/240927Chi_D24-234083_2_sequence.fastq
+KJ_46_47	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234068-6907L/240927Chi_D24-234068_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234068-6907L/240927Chi_D24-234068_2_sequence.fastq
+KJ_49_50	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234069-6907L/240927Chi_D24-234069_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234069-6907L/240927Chi_D24-234069_2_sequence.fastq
+KJ_52_53	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234070-6907L/240927Chi_D24-234070_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234070-6907L/240927Chi_D24-234070_2_sequence.fastq
+KJ_55_56	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234071-6907L/240927Chi_D24-234071_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234071-6907L/240927Chi_D24-234071_2_sequence.fastq
+KJ_58_59	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234056-6907L/240927Chi_D24-234056_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234056-6907L/240927Chi_D24-234056_2_sequence.fastq
+KJ_64_65	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234058-6907L/240927Chi_D24-234058_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234058-6907L/240927Chi_D24-234058_2_sequence.fastq
+KJ_67_68	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234059-6907L/240927Chi_D24-234059_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234059-6907L/240927Chi_D24-234059_2_sequence.fastq
+KJ_70_71	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234096-6907L/240927Chi_D24-234096_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234096-6907L/240927Chi_D24-234096_2_sequence.fastq
+KJ_94_95	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234084-6907L/240927Chi_D24-234084_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234084-6907L/240927Chi_D24-234084_2_sequence.fastq
+KJ_97_98	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234085-6907L/240927Chi_D24-234085_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234085-6907L/240927Chi_D24-234085_2_sequence.fastq
+KJ_100_101	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234086-6907L/240927Chi_D24-234086_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234086-6907L/240927Chi_D24-234086_2_sequence.fastq
+KJ_103_104	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234087-6907L/240927Chi_D24-234087_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234087-6907L/240927Chi_D24-234087_2_sequence.fastq
+KJ_106_107	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234073-6907L/240927Chi_D24-234073_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234073-6907L/240927Chi_D24-234073_2_sequence.fastq
+KJ_109_110	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234075-6907L/240927Chi_D24-234075_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234075-6907L/240927Chi_D24-234075_2_sequence.fastq
+KJ_112_113	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234077-6907L/240927Chi_D24-234077_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234077-6907L/240927Chi_D24-234077_2_sequence.fastq
+KJ_115_116	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234079-6907L/240927Chi_D24-234079_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234079-6907L/240927Chi_D24-234079_2_sequence.fastq
+KJ_118_119	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234061-6907L/240927Chi_D24-234061_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234061-6907L/240927Chi_D24-234061_2_sequence.fastq
+KJ_121_122	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234063-6907L/240927Chi_D24-234063_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234063-6907L/240927Chi_D24-234063_2_sequence.fastq
+KJ_124_125	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234065-6907L/240927Chi_D24-234065_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234065-6907L/240927Chi_D24-234065_2_sequence.fastq
+KJ_127_128	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234067-6907L/240927Chi_D24-234067_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/240927Chi/D24-234067-6907L/240927Chi_D24-234067_2_sequence.fastq
+KJ10	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16873-6964L/241105Chi_D24-16873_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16873-6964L/241105Chi_D24-16873_2_sequence.fastq
+KJ11	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16874-6964L/241105Chi_D24-16874_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16874-6964L/241105Chi_D24-16874_2_sequence.fastq
+KJ13	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16875-6964L/241105Chi_D24-16875_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16875-6964L/241105Chi_D24-16875_2_sequence.fastq
+KJ14	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16876-6964L/241105Chi_D24-16876_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16876-6964L/241105Chi_D24-16876_2_sequence.fastq
+KJ16	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16877-6964L/241105Chi_D24-16877_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16877-6964L/241105Chi_D24-16877_2_sequence.fastq
+KJ17	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16878-6964L/241105Chi_D24-16878_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16878-6964L/241105Chi_D24-16878_2_sequence.fastq
+KJ19	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16879-6964L/241105Chi_D24-16879_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16879-6964L/241105Chi_D24-16879_2_sequence.fastq
+KJ20	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16880-6964L/241105Chi_D24-16880_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16880-6964L/241105Chi_D24-16880_2_sequence.fastq
+KJ7374	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16881-6964L/241105Chi_D24-16881_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16881-6964L/241105Chi_D24-16881_2_sequence.fastq
+KJ7677	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16882-6964L/241105Chi_D24-16882_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16882-6964L/241105Chi_D24-16882_2_sequence.fastq
+KJ7980	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16883-6964L/241105Chi_D24-16883_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16883-6964L/241105Chi_D24-16883_2_sequence.fastq
+KJ8283	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16884-6964L/241105Chi_D24-16884_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16884-6964L/241105Chi_D24-16884_2_sequence.fastq
+KJ8586	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16885-6964L/241105Chi_D24-16885_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16885-6964L/241105Chi_D24-16885_2_sequence.fastq
+KJ88	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16886-6964L/241105Chi_D24-16886_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16886-6964L/241105Chi_D24-16886_2_sequence.fastq
+KJ91	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16887-6964L/241105Chi_D24-16887_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16887-6964L/241105Chi_D24-16887_2_sequence.fastq
+KJ92	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16888-6964L/241105Chi_D24-16888_1_sequence.fastq	/orcd/data/chisholm/001/chisholmlab/experiment_repository/2024/241105Chi/D24-16888-6964L/241105Chi_D24-16888_2_sequence.fastq
+SRR9178338
+SRR23969212
+SRR23969210
+SRR9178353
+SRR23969208
+SRR23969214
+SRR23969204
+SRR23969200
+SRR23969198
+SRR9178337
+SRR9178318
+SRR23969230
+SRR23969225
+SRR23969224
+SRR23969223
+SRR9178335
+SRR9178375
+SRR23969167
+SRR9178407
+SRR23969156
+SRR9178366
+SRR9178368
+SRR9178159
+SRR9178156
+SRR9178219
+SRR9178224
+SRR9178194
+SRR9178100
+SRR9178093
+SRR9178092
+SRR9178279
+SRR9178285
+SRR9178494
+SRR9178438
+SRR23969139
+ERR598979
+ERR599126
+ERR598976
+ERR599119
+ERR599135
+ERR599139
+ERR588857
+ERR599141
+ERR599146
+ERR598970
+ERR599010
+ERR599314
+ERR599069
+ERR599080
+ERR599066
+ERR599088
+ERR599091
+ERR599012
+ERR599038
+ERR599098
+ERR599114
+ERR599036
+ERR4691844
+ERR599075
+ERR599160
+ERR1726903
+ERR599162
+ERR1726899
+ERR4691759
+ERR1726892
+ERR599165
+ERR1726800
+ERR1726744
+ERR1726731
+ERR1726937
+ERR4691756
+ERR599150
+ERR4691753
+ERR599151
+ERR1726599
+ERR1726601
+ERR1726979
+SRR23969207
+SRR23969202
+SRR9178330
+SRR23969227
+SRR23969169
+SRR23969166
+SRR9178404
+SRR9178405
+SRR23969159
+SRR23969163
+SRR23969185
+SRR23969181
+SRR23969180
+SRR9178233
+SRR9178237
+SRR9178151
+SRR9178146
+SRR9178097
+SRR9178290
+SRR9178094
+SRR9178292
+SRR9178143
+SRR9178142
+SRR9178281
+SRR9178106
+SRR9178105
+SRR9178104
+SRR9178145
+SRR23969143
+SRR9178443
+SRR23969141
+SRR23969147
+SRR23969150
+SRR9178436
+ERR1726641
+ERR1726680
+SRR9178333
+SRR9178334
+SRR23969219
+SRR23969217
+SRR23969195
+SRR23969171
+SRR23969168
+SRR23969161
+SRR23969155
+SRR23969190
+SRR9178367
+SRR23969182
+SRR23969178
+SRR23969176
+SRR9178157
+SRR9178236
+SRR9178220
+SRR9178211
+SRR9178193
+SRR9178089
+SRR9178314
+SRR9178316
+SRR9178103
+SRR9178282
+SRR9178286
+SRR9178487
+SRR9178490
+SRR9178502
+SRR23969146
+SRR23969149
+SRR9178411
+SRR23969148
+ERR598942
+ERR4691814
+ERR599299
+ERR598972
+ERR599025
+ERR599023
+ERR599026
+ERR599296
+ERR1726590
+SRR23969206
+SRR23969205
+SRR23969201
+SRR9178357
+SRR9178358
+SRR9178359
+SRR23969196
+SRR9178319
+SRR23969229
+SRR23969228
+SRR23969222
+SRR23969218
+SRR23969158
+SRR23969191
+SRR9178362
+SRR23969186
+SRR23969183
+SRR9178274
+SRR9178191
+SRR9178216
+SRR9178213
+SRR9178226
+SRR9178209
+SRR9178276
+SRR9178085
+SRR9178109
+SRR9178476
+SRR9178482
+SRR9178483
+SRR9178530
+SRR9178531
+SRR23969142
+SRR23969144
+SRR9178462
+ERR599002
+ERR599016
+SRR23969213
+SRR9178356
+SRR23969197
+SRR23969216
+SRR23969221
+SRR23969220
+SRR23969172
+SRR23969173
+SRR23969192
+SRR23969184
+SRR23969177
+SRR9178082
+SRR9178152
+SRR9178273
+SRR9178149
+SRR9178275
+SRR9178147
+SRR9178218
+SRR9178210
+SRR9178196
+SRR9178287
+SRR9178141
+SRR9178117
+SRR9178112
+SRR23969174
+SRR23969153
+SRR9178488
+SRR9178485
+SRR9178528
+SRR23969145
+SRR9178465
+SRR23969152
+SRR9178410
+ERR4691803
+SRR23969211
+SRR23969209
+SRR23969203
+SRR23969226
+SRR9178332
+SRR23969194
+SRR9178402
+SRR23969164
+SRR23969162
+SRR23969160
+SRR23969157
+SRR23969193
+SRR23969189
+SRR23969179
+SRR9178083
+SRR9178232
+SRR9178153
+SRR9178225
+SRR9178096
+SRR9178087
+SRR9178536
+SRR9178102
+SRR9178119
+SRR9178108
+SRR9178493
+SRR9178529
+SRR9178533
+SRR9178503
+SRR9178504
+SRR9178437
+SRR9178442
+SRR23969140
+SRR23969151
+SRR9178461
+SRR15713229
+SRR15713231
+SRR15713232
+SRR15713233
+SRR15713234
+SRR15713235
+SRR9178339
+SRR23969215
+SRR9178360
+SRR9178406
+SRR9178361
+SRR23969188
+SRR9178370
+SRR9178371
+SRR9178158
+SRR9178231
+SRR9178230
+SRR9178289
+SRR9178086
+SRR9178115
+SRR9178113
+SRR17827611
+SRR17827608
+SRR17827603
+SRR17827600
+SRR17827632
+SRR9178477
+SRR9178479
+SRR17827625
+SRR17827616
+SRR9178484
+SRR17827561
+SRR9178532
+SRR17827550
+SRR17827588
+SRR9178500
+SRR17827668
+SRR9178441
+SRR9178464
+SRR17827647
+ERR599040
+ERR599148
+ERR1726607
+ERR1726950
+ERR598957
+SRR9178403
+SRR9178408
+SRR9178373
+SRR9178369
+SRR9178234
+SRR9178192
+SRR9178222
+SRR9178217
+SRR9178215
+SRR9178229
+SRR9178195
+SRR9178101
+SRR9178098
+SRR9178090
+SRR9178088
+SRR9178278
+SRR9178492
+SRR9178478
+SRR17827624
+SRR9178495
+SRR17827555
+SRR17827549
+SRR17827578
+SRR17827574
+SRR9178459
+SRR9178354
+SRR23969170
+SRR9178374
+SRR23969175
+SRR9178189
+SRR9178160
+SRR9178190
+SRR9178154
+SRR9178155
+SRR9178223
+SRR9178227
+SRR9178409
+SRR9178293
+SRR9178107
+SRR9178486
+SRR17827610
+SRR17827598
+SRR9178491
+SRR17827613
+SRR17827628
+SRR9178535
+SRR17827587
+SRR9178498
+SRR17827575
+SRR17827569
+SRR9178439
+SRR17827657
+SRR9178458
+SRR17827666
+SRR17827645
+SRR17827638
+SRR17827671
+SRR9178331
+SRR9178081
+SRR9178161
+SRR9178150
+SRR9178148
+SRR9178197
+SRR9178144
+SRR9178291
+SRR9178315
+SRR9178111
+SRR9178110
+SRR9178284
+SRR9178489
+SRR17827564
+SRR17827633
+SRR17827573
+SRR9178221
+SRR17827667
+SRR9178460
+SRR17827661
+SRR9178456
+SRR9178355
+SRR9178079
+SRR9178372
+SRR9178235
+SRR9178214
+SRR9178208
+SRR9178228
+SRR9178095
+SRR9178091
+SRR9178280
+SRR9178114
+SRR9178480
+SRR17827565
+SRR17827553
+SRR17827547
+SRR9178507
+SRR9178501
+SRR9178457
+SRR9178445
+SRR17827646
+SRR17827641
+SRR17827545
+SRR9178080
+SRR9178068
+SRR9178336
+SRR23969165
+SRR9178317
+SRR9178188
+SRR9178212
+SRR9178288
+SRR9178084
+SRR9178277
+SRR9178118
+SRR17827612
+SRR17827594
+SRR17827631
+SRR17827630
+SRR9178481
+SRR17827619
+SRR17827551
+SRR9178534
+SRR9178506
+SRR9178499
+SRR17827581
+SRR9178505
+SRR17827634
+SRR17827672
+SRR9178444
+SRR17827664
+SRR9178440
+SRR9178463
+SRR17827644
+SRR23969187
+SRR17827607
+SRR17827606
+SRR17827601
+SRR17827599
+SRR17827593
+SRR17827592
+SRR17827615
+SRR17827629
+SRR17827626
+SRR17827620
+SRR17827563
+SRR17827552
+SRR17827566
+SRR17827585
+SRR17827583
+SRR17827580
+SRR17827579
+SRR17827576
+SRR17827572
+SRR17827571
+SRR17827570
+SRR17827577
+SRR17827659
+SRR17827656
+SRR17827653
+SRR17827663
+SRR23969138
+SRR17827665
+SRR17827655
+SRR17827649
+SRR23969154
+SRR23969199
+SRR17827597
+SRR17827596
+SRR17827591
+SRR17827623
+SRR17827622
+SRR17827621
+SRR17827618
+SRR17827617
+SRR17827614
+SRR17827590
+SRR17827589
+SRR17827562
+SRR17827560
+SRR17827559
+SRR17827557
+SRR17827554
+SRR17827548
+SRR17827568
+SRR17827584
+SRR17827654
+SRR17827651
+SRR17827670
+SRR17827669
+SRR17827650
+SRR17827637
