@@ -9,8 +9,6 @@ SAMPLE_TABLE = pd.read_csv(config["input"]["sample table"], index_col="sample", 
 SAMPLE_TABLE.index = SAMPLE_TABLE.index.map(str)  # convert index (samples) to string 
 SAMPLES = SAMPLE_TABLE.index.tolist()  # obtain list of samples 
 
-SAMPLES = [sample for sample in SAMPLES if sample.startswith('KJ')]
-
 ##### Define intermediate/results files/directories #####
 scratch_dir = Path(config["scratch directory"])
 results_dir = Path(config["results directory"])
@@ -67,9 +65,8 @@ results_dict = {
 ##### Define the file files to generate #####
 rule all:
     input:
-        expand(scratch_dict["trimmed_reads"] / "{sample}_1_trimmed.fastq.gz", sample=SAMPLES), 
-        # results_dict['final_normalized_count'],  
-        # results_dict['summary_read_count'], 
+        results_dict['final_normalized_count'],  
+        results_dict['summary_read_count'], 
 
 ##### Define the Rules that are used in this pipeline #####
 include: "rules/SRA_dl.smk"
