@@ -33,7 +33,7 @@ cluster:
 
 # HPC Resource Specifications 
 # number of jobs/processes/samples running at once 
-jobs: 100
+jobs: 50
 
 
 default-resources: 

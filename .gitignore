@@ -20,6 +20,7 @@ TaxonomicClassification/SupplementaryTable/
 
 TaxonomicClassification/AbsoluteGenomeEquivalents/CalculateAbsolute/data/TrimmedFastaOutput/
 TaxonomicClassification/AbsoluteGenomeEquivalents/CalculateAbsolute/data/BlastOutput/
+TaxonomicClassification/AbsoluteGenomeEquivalents/AbsolutePlot/
 
 # VariantCalling Folder 
 VariantCalling/Modified-WideVariant-Pipeline/0-input/infosite-6710L/
